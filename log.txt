@@ -1,2 +1,4 @@
+4ac01cb Task 2.1: remove redundant Play parameter from getAmount()
+815ddac Task 1.2: update git log after CheckStyle fixes
 a8fab88 Task 1.1: fix all CheckStyle issues
 1671245 Initial commit
