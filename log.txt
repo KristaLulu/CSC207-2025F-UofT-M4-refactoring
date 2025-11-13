@@ -1,3 +1,5 @@
+875dfde Task 2.4: split loops; extract getTotalAmount()/getTotalVolumeCredits(); inline locals
+63fcb53 Task 2.3: update log
 ba33b4e Task 2.3: inline frmt variable and extract usd() helper
 61544f0 Task 2.2: update log
 ffc2970 Task 2.2: extract getVolumeCredits(); return per-performance contribution and use +=
