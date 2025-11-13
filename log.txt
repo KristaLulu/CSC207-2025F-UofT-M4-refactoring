@@ -1,3 +1,5 @@
+ba33b4e Task 2.3: inline frmt variable and extract usd() helper
+61544f0 Task 2.2: update log
 ffc2970 Task 2.2: extract getVolumeCredits(); return per-performance contribution and use +=
 9d6dab8 Task 2.1: update log after removing redundant parameter
 4ac01cb Task 2.1: remove redundant Play parameter from getAmount()
